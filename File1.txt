@@ -1,11 +1,13 @@
 Welcome to git session!
 
-change: to check the diff command
+change:- To check the diff command
 
 
-change : to fix bug1
+change :- To fix bug1
 
-change: by team
+change:- By team 
 
-change: for bug2 to check 3-way merging with conflict
+change:- For bug2 to check 3-way merging with conflict
+
+change:- For CR2 to check rebase wirh conflict.
 

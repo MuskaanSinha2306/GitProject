@@ -1,7 +1,11 @@
 Welcome to git session!
 
-Just to check the diff command
+change: to check the diff command
+
 
 change : to fix bug1
 
 change: by team
+
+change: for bug2 to check 3-way merging with conflict
+

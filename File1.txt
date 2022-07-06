@@ -23,6 +23,8 @@ change:- For bug2 to check 3-way merging with conflict
 
 change:- For CR2 to check rebase wirh conflict.
 
-change:- for WI5 to check stash.
+change:- for WI5 to check stash. updated on local master
+
+change:- updated on local master to check rebase on conflict with local master.
 
 change:- by team mate CR5 on remote master.

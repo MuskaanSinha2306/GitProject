@@ -1,3 +1,5 @@
 Welcome to git session!
 
 Just to check the diff command
+
+change for bug2 to check 3-way merging with conflict

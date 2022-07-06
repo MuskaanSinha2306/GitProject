@@ -1,5 +1,17 @@
 Welcome to git session!
 
+<<<<<<< HEAD
+change:- To check the diff command
+
+
+change :- To fix bug1
+
+change:- By team 
+
+change:- For bug2 to check 3-way merging with conflict
+
+change:- For CR2 to check rebase wirh conflict.
+
 change:- To check the diff command
 
 
